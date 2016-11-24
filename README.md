@@ -1,4 +1,4 @@
-# FeedArt
+# Feed Art
 Feedart is [a chrome extension](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) which replaces the ads you see on your Facebook feed by cool pieces of art. We feature a different artist or style every week.
 
 
